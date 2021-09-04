@@ -53,3 +53,9 @@ body {
   background-repeat: no-repeat;
   background-size: 80px 80px;
 }
+
+@media only screen and (max-width:600px) {
+  .wrapper {
+    width: 100%;
+  }
+}
